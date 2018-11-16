@@ -1,7 +1,7 @@
 package com.mayhem;
 
 /**
- * The game settings for the server
+ * The game settings for the server//testinggain
  * 
  * @author Mayhem Team
  */
