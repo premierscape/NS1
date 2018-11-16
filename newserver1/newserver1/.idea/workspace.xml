@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd49835-6454-4ea4-8f06-b0e7b14b9fa9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Slayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/slayer/Slayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalkToActions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/WalkToActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7259">
+              <caret line="597" column="81" selection-start-line="597" selection-start-column="81" selection-end-line="598" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Preset.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/Preset.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PresetType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/PresetType.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PresetManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/PresetManager.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SendDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/out/impl/SendDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendLoginResponse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/out/impl/SendLoginResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DropTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/DropTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3638">
+              <caret line="233" column="34" selection-start-line="233" selection-start-column="23" selection-end-line="233" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemPackets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/ItemPackets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-646">
+              <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>1507</find>
+      <find>5227</find>
+      <find>Teleports</find>
+      <find>reward</find>
+      <find>inferno</find>
+      <find>stop(</find>
+      <find>close</find>
+      <find>29150</find>
+      <find>bonus</find>
+      <find>declare</find>
+      <find>itemBonus</find>
+      <find>itembonus</find>
+      <find>Xstream</find>
+      <find>loaditem</find>
+      <find>loaditembonus</find>
+      <find>loadItemBonusDefinitions</find>
+      <find>Item</find>
+      <find>29241</find>
+      <find>xStream</find>
+      <find>4552</find>
+      <find>rune full helm</find>
+      <find>helmet</find>
+      <find>helm</find>
+      <find>599</find>
+      <find>null</find>
+      <find>&gt;599</find>
+      <find>5032</find>
+      <find>403</find>
+      <find>player.getPacketSender().sendString</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>spellId</replace>
+      <replace>player.send(new SendString(</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/minigames/raids/Raids.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/wilderman/WildermanBank.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/Yelling.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/shopping/impl/CreditsShop.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/membership/RankHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/special/SpecialAttackHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/wilderman/Wilderman.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/PlayerConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/mob/Mob.java" />
+        <option value="$PROJECT_DIR$/data/characters/details/Goon.json" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/TeleportHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/prayer/PrayerBook.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/shopping/Shop.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/Autocast.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/item/Equipment.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/Hit.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/mob/MobConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/gambling/Flowering.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/formula/MagicFormulas.java" />
+        <option value="$PROJECT_DIR$/data/def/magic/CombatSpellDefinitions.xml" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/formula/MeleeFormulas.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/ClickButtonPacket.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/pets/BossPets.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/minigames/inferno/Inferno.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/object/ObjectManager.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/core/util/GameDefinitionLoader.java" />
+        <option value="$PROJECT_DIR$/data/def/items/ItemDefinitions.xml" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/item/EquipmentConstants.java" />
+        <option value="$PROJECT_DIR$/data/def/items/EquipmentDefinitions.xml" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/slayer/SlayerTasks.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/slayer/Slayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/dialogue/impl/Krystillia.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/entity/WalkToActions.java" />
+        <option value="$PROJECT_DIR$/src/com/mayhem/rs2/content/presets/Presetables.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="399" />
+    <option name="y" value="64" />
+    <option name="width" value="1395" />
+    <option name="height" value="967" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="core" type="cbb8eebc:String" user="core" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+              <item name="player" type="cbb8eebc:String" user="player" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+              <item name="player" type="cbb8eebc:String" user="player" />
+              <item name="net" type="cbb8eebc:String" user="net" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+              <item name="player" type="cbb8eebc:String" user="player" />
+              <item name="net" type="cbb8eebc:String" user="net" />
+              <item name="in" type="cbb8eebc:String" user="in" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+              <item name="player" type="cbb8eebc:String" user="player" />
+              <item name="net" type="cbb8eebc:String" user="net" />
+              <item name="in" type="cbb8eebc:String" user="in" />
+              <item name="command" type="cbb8eebc:String" user="command" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Arkitori Source" type="cbb8eebc:String" user="Arkitori Source" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/mayhem" type="cbb8eebc:String" user="com/mayhem" />
+              <item name="rs2" type="cbb8eebc:String" user="rs2" />
+              <item name="entity" type="cbb8eebc:String" user="entity" />
+              <item name="player" type="cbb8eebc:String" user="player" />
+              <item name="net" type="cbb8eebc:String" user="net" />
+              <item name="in" type="cbb8eebc:String" user="in" />
+              <item name="command" type="cbb8eebc:String" user="command" />
+              <item name="impl" type="cbb8eebc:String" user="impl" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arkitori Source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mayhem" type="462c0819:PsiDirectoryNode" />
+              <item name="rs2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arkitori Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Arkitori Source" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Arkitori Source" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="droptable&#9;PSI&#9;JAVA://com.mayhem.rs2.content.DropTable&#10;details&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.out.impl.SendDetails&#10;walkto&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/entity/WalkToActions.java&#10;slayer&#9;PSI&#9;JAVA://com.mayhem.rs2.content.skill.slayer.Slayer&#10;loadItemb&#9;PSI&#9;JAVA://com.mayhem.core.util.GameDefinitionLoader#loadItemBonusDefinitions&#10;itembonus&#9;PSI&#9;JAVA://com.mayhem.core.util.GameDefinitionLoader#getItemBonusDefinitions&#10;objectMana&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/entity/object/ObjectManager.java&#10;object&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/entity/object/LocalObjects.java&#10;npcpacket&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.in.impl.NPCPacket&#10;pet&#9;PSI&#9;JAVA://com.mayhem.rs2.content.pets.BossPets.PetData&#10;Click&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.in.impl.ClickButtonPacket&#10;objectpacket&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.in.impl.ObjectPacket&#10;11907&#9;null&#9;null&#10;itempacket&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/entity/player/net/in/impl/ItemPackets.java&#10;poison&#9;PSI&#9;JAVA://com.mayhem.rs2.content.combat.Hit.HitTypes#POISON&#10;autocast&#9;PSI&#9;JAVA://com.mayhem.rs2.content.skill.magic.Autocast&#10;trident&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.Player#getSeasTrident&#10;Shop&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/content/shopping/Shop.java&#10;spell&#9;PSI&#9;JAVA://com.mayhem.rs2.content.skill.magic.SpellCasting&#10;combatspell&#9;PSI&#9;JAVA://com.mayhem.core.definitions.CombatSpellDefinition&#10;prayer&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/content/skill/prayer/PrayerBook.java&#10;playerconstants&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.PlayerConstants&#10;teleporthan&#9;PSI&#9;JAVA://com.mayhem.rs2.content.TeleportHandler&#10;kraken&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.mob.impl.Kraken&#10;specialat&#9;FILE&#9;file://C:/Users/Admin/Desktop/Arkitori Source/src/com/mayhem/rs2/content/combat/special/SpecialAttackHandler.java&#10;img=8&#9;null&#9;null&#10;moneySpent&#9;PSI&#9;JAVA://com.mayhem.rs2.content.membership.MembershipBonds.BondData#moneySpent&#10;credits&#9;PSI&#9;JAVA://com.mayhem.rs2.content.shopping.impl.CreditsShop&#10;command&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.in.command.impl.AdministratorCommand&#10;getRight&#9;PSI&#9;JAVA://com.mayhem.rs2.content.StarterKit.StarterData#getRights&#10;rights&#9;PSI&#9;JAVA://com.mayhem.rs2.entity.player.net.out.impl.SendClanMessage#rights&#10;:prayer:&#9;null&#9;null&#10;updateSpecial&#9;PSI&#9;JAVA://com.mayhem.rs2.content.combat.special.SpecialAttackHandler#updateSpecialAmount" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.mayhem.Server" />
+      <module name="Arkitori Source" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd49835-6454-4ea4-8f06-b0e7b14b9fa9" name="Default" comment="" />
+      <created>1526626610740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526626610740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="399" y="64" width="1395" height="967" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32814372" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3269461" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32883894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32960895" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2883895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3273743" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/gambling/Flowering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/task/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/task/TaskQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/minigames/raids/Raids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7531">
+          <caret line="480" column="12" selection-start-line="480" selection-start-column="12" selection-end-line="480" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/MagicConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/Autocast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="153" column="14" selection-start-line="153" selection-start-column="14" selection-end-line="153" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/SpellBookTeleporting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/Spell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/weapons/TridentOfTheSeas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/item/Equipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="211" column="55" selection-start-line="211" selection-start-column="52" selection-end-line="211" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/formula/MagicFormulas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="197" column="9" selection-start-line="197" selection-start-column="9" selection-end-line="197" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/def/magic/CombatSpellDefinitions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/MagicEffects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/magic/MagicSkill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10251">
+          <caret line="661" column="63" selection-start-line="661" selection-start-column="51" selection-end-line="661" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/out/impl/SendSidebarInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/combat/formula/MeleeFormulas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3281">
+          <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/ObjectPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/NPCPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/ClickButtonPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5032">
+          <caret line="386" column="12" selection-start-line="386" selection-start-column="12" selection-end-line="386" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/minigames/inferno/Inferno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="306" column="38" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/pets/BossPets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/def/ObjectAlternates.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ObjectRemoval.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/RileynpcSpawns.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/cache/map/ObjectDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="419" selection-start-line="419" selection-end-line="419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/cache/map/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="714" selection-start-line="714" selection-end-line="714" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/mob/Walking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/mob/Mob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/hunter/Impling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/StringInputPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="86" column="52" selection-start-line="86" selection-start-column="52" selection-end-line="86" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/object/LocalObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/def/items/ItemBonusDefinitions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/object/ObjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17051">
+          <caret line="1018" column="34" selection-start-line="1018" selection-start-column="34" selection-end-line="1018" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/util/GameDefinitionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="652" column="9" selection-start-line="652" selection-start-column="9" selection-end-line="652" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/core/definitions/ItemBonusDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/def/items/EquipmentDefinitions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461754">
+          <caret line="27162" column="18" selection-start-line="27162" selection-start-column="18" selection-end-line="27162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/item/EquipmentConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/def/items/ItemDefinitions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122366">
+          <caret line="7198" column="22" selection-start-line="7198" selection-start-column="22" selection-end-line="7198" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/slayer/SlayerTasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="28" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/skill/slayer/Slayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/dialogue/impl/Krystillia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="149" column="22" lean-forward="true" selection-start-line="140" selection-start-column="10" selection-end-line="149" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/dialogue/impl/VannakaDialogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="112" column="12" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/WalkToActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7259">
+          <caret line="597" column="81" selection-start-line="597" selection-start-column="81" selection-end-line="598" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/Preset.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/PresetType.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/out/impl/SendDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/out/impl/SendLoginResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/DropTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="233" column="34" selection-start-line="233" selection-start-column="23" selection-end-line="233" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/entity/player/net/in/impl/ItemPackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mayhem/rs2/content/presets/Presetables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../letspk/source/src/org/fb/live/model/presets/PresetManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Arkitori Source</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
