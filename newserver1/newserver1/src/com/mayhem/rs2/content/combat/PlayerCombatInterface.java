@@ -376,15 +376,7 @@ public class PlayerCombatInterface implements CombatInterface {
                 }
             }
         }
-        	if(!hit.getAttacker().isNpc()) {
-        	
-        		if(hit.getDamage()>0) {
-            		PlayerSounds.sendBlockOrHitSound(player, false);
-            	}else {
-            		if(hit.getType() != HitTypes.MAGIC)
-            		PlayerSounds.sendBlockOrHitSound(player, true);	
-            	}
-        	}
+
         if (hit.getAttacker() != null) {
 
             RingOfRecoil.doRecoil(player, hit.getAttacker(), hit.getDamage());
@@ -404,11 +396,7 @@ public class PlayerCombatInterface implements CombatInterface {
             }
 
             player.getCombat().getDamageTracker().addDamage(hit.getAttacker(), hit.getDamage());
-            if(hit.getDamage()>0) {
-        		MobSounds.sendAttackSound(player, hit.getAttacker().getMob().getId(), hit.getAttacker().getCombat().getCombatType(), true);
-        	}else {
-        		MobSounds.sendAttackSound(player, hit.getAttacker().getMob().getId(), hit.getAttacker().getCombat().getCombatType(), false);
-        	}
+
             hit.getAttacker().onHit(player, hit);
 
             if (hit.getType() != HitTypes.NONE && hit.getType() != HitTypes.POISON) {
@@ -457,9 +445,7 @@ public class PlayerCombatInterface implements CombatInterface {
         } else {
             player.send(new SendEntityFeed(attack.getMob().getDefinition().getName(), attack.getLevels()[3] - hit, attack.getMaxLevels()[3]));
         }
-        if(hit==0 & type == CombatTypes.MAGIC) {
-			player.getClient().queueOutgoingPacket(new SendSound(218, 0, 0));
-    	}
+
         switch (type) {
             case MAGIC:
                 if (success) {
