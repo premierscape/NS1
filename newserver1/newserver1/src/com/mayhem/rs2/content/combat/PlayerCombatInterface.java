@@ -43,7 +43,7 @@ import com.mayhem.rs2.entity.player.net.out.impl.SendSound;
 
 public class PlayerCombatInterface implements CombatInterface {
 
-    private final Player player;
+    private final Player player;//lol
 
     public PlayerCombatInterface(Player player) {
         this.player = player;
